@@ -1,6 +1,6 @@
 # Masters-Projects
 
-Domain Adaption and Sentiment Analysis on Reviews in E-commerce Sites ->
+/b Domain Adaption and Sentiment Analysis on Reviews in E-commerce Sites b/->
 Built ALEXNET inspired Convolution Neural Network model, with 85% accuracy, using Python to predict customer rating of new products on Amazon Marketplace. Model was trained using Transfer Learning techniques and NLP for text mining.
 
 DDoS detection and Mitigation in Software Defined Network (SDN) ->
